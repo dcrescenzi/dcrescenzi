@@ -4,7 +4,7 @@ I'm a 3rd year Computer Engineering student at the University of Toronto.  I's a
 
 Right now, i'm interning at Oracle as a backend SDE and also on the UofTHacks web dev team.  I also love personal projects, from small games to a wolphram alpha clone in the terminal (currently in the works), a 16-bit breadboard computer, or soon trying to make a simple neural network from scratch in C, I love a challenge.
 
-You can reach me on my [LinkedIn](https://www.linkedin.com/in/dante-crescenzi/) or email - dantecrescenzi@gmail.com
+You can reach me on my [LinkedIn](https://www.linkedin.com/in/dante-crescenzi/) or [Email](dantecrescenzi@gmail.com)
 
 Have a good day! :)
 <!--
