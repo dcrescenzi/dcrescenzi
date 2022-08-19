@@ -1,6 +1,6 @@
 ## Hi there 😄 I'm Dante Crescenzi
 
-I'm a 3rd year Computer Engineering student at the university of toronto.  I's always looking for oppourtunities to collaborate on projects and learn new things. As I say in my bio, thanks for stopping by!
+I'm a 3rd year Computer Engineering student at the university of toronto.  I's always looking for oppourtunities to collaborate on projects and learn new things. Thanks for stopping by!
 
 Right now, i'm interning at Oracle as a backend SDE and also on the UofTHacks web dev team.  I also love personal projects, from small games to a wolphram alpha clone in the terminal (currently in the works), a 16-bit breadboard computer, or soon trying to make a simple neural network from scratch in C, I love a challenge.
 
