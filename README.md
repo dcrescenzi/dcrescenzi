@@ -1,23 +1,9 @@
-## Hi there 😄 I'm Dante Crescenzi
+## Hey, I'm Dante
 
-I'm a 3rd year Computer Engineering student at the University of Toronto.  I's always looking for oppourtunities to collaborate on projects and learn new things. Thanks for stopping by!
+I'm a Computer Engineering student at the University of Toronto, currently on PEY and soon heading into my 4th year.  I'm always looking for oppourtunities to collaborate on projects and learn new things. Thanks for stopping by!
 
-Right now, i'm interning at Intel as a FPGA Engineer Intern and am also the VP web dev for UofTHacks.  I also love personal projects, from small games to a wolphram alpha clone in the terminal (currently in the works), a 16-bit breadboard computer, and more, I love a challenge.
+Right now, i'm interning at Intel as a FPGA Software Engineering Intern. Soon i'll be heading to Chicago to intern at IMC Trading as a Hardware Engineering Intern. I also love personal projects, you can find a few here.
 
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/dante-crescenzi/) or email: dantecrescenzi@gmail.com
 
-Have a good day! :)
-<!--
-**dcrescenzi/dcrescenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Have a good day!
